@@ -15,5 +15,7 @@ Ce projet Power BI analyse les ventes détaillées et les performances quotidien
 
 ## Problématique
 Comment maximiser le chiffre d'affaires et optimiser les stocks en analysant les performances régionales et les comportements d'achat ?
+
+
 <img width="637" alt="Power BI" src="https://github.com/user-attachments/assets/9048c396-d59e-4197-89b2-a6a6ad102aea" />
 
